@@ -56,7 +56,7 @@ body {
 }
 
 .active {
-    background-color: rgb(75, 75, 75);
+    background-color: black;
 }
 
 .active ul li a {
